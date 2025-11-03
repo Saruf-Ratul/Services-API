@@ -316,10 +316,3 @@ Internal company project.
 **Last Updated**: 2025-01-27
 
 🎉 **Your modern .NET 9 REST API is ready to scale!**
-
-#   S e r v i c e s - A P I  
- #   S e r v i c e s - A P I  
- #   S e r v i c e s - A P I  
- #   S e r v i c e s - A P I  
- #   S e r v i c e s - A P I  
- 
