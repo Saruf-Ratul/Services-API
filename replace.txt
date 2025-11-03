@@ -1,0 +1,4 @@
+﻿# Twilio Account SID (AC + 32 chars)
+regex:AC[0-9A-Za-z]{32}==>ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# Twilio API Key SID (SK + 32 chars)
+regex:SK[0-9A-Za-z]{32}==>SKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

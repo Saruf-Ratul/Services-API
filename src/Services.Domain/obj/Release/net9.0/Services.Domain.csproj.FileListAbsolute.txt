@@ -1,0 +1,12 @@
+D:\XSI\Services\Services\src\Services.Domain\bin\Release\net9.0\Services.Domain.deps.json
+D:\XSI\Services\Services\src\Services.Domain\bin\Release\net9.0\Services.Domain.dll
+D:\XSI\Services\Services\src\Services.Domain\bin\Release\net9.0\Services.Domain.pdb
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.AssemblyInfoInputs.cache
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.AssemblyInfo.cs
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.csproj.CoreCompileInputs.cache
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.dll
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\refint\Services.Domain.dll
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.pdb
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\ref\Services.Domain.dll
+D:\XSI\Services\Services\src\Services.Domain\obj\Release\net9.0\Services.Domain.sourcelink.json

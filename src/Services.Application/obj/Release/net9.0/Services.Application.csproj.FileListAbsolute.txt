@@ -1,0 +1,16 @@
+D:\XSI\Services\Services\src\Services.Application\bin\Release\net9.0\Services.Application.deps.json
+D:\XSI\Services\Services\src\Services.Application\bin\Release\net9.0\Services.Application.dll
+D:\XSI\Services\Services\src\Services.Application\bin\Release\net9.0\Services.Application.pdb
+D:\XSI\Services\Services\src\Services.Application\bin\Release\net9.0\Services.Domain.dll
+D:\XSI\Services\Services\src\Services.Application\bin\Release\net9.0\Services.Domain.pdb
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.csproj.AssemblyReference.cache
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.AssemblyInfoInputs.cache
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.AssemblyInfo.cs
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.csproj.CoreCompileInputs.cache
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.1FD93516.Up2Date
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.dll
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\refint\Services.Application.dll
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.pdb
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\ref\Services.Application.dll
+D:\XSI\Services\Services\src\Services.Application\obj\Release\net9.0\Services.Application.sourcelink.json
